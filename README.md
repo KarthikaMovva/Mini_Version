@@ -197,5 +197,3 @@ Notification API
 Continue-As-New
 
 Memory Cleanup
-
-https://docs.google.com/document/d/1XaZH3M7RjswKlLORNZagEnhXd98Tt2UGyIchuIoX3P8/edit?tab=t.0
